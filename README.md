@@ -5,7 +5,7 @@ A demo app for utilizing the Dolby.io Millicast Unreal Engine 5 Publisher Plugin
 
 ## To Run
 1. Clone to an appropriate directory.
-2. Open with Unreal Engine 5. It will prompt you, saying if you want to re-build MillicastPublisher plugin, say yes. You are now in the editor and can build your game using MillicastPublisher.
+2. Open with Unreal Engine 5. It may prompt you asking to re-build MillicastPublisher plugin, click yes. After building you'll be dropped into the UE5 editor and can build your game using MillicastPublisher.
 
 For installing the plugin from source check out this guide here: https://dev.to/dolbyio/installing-unreal-engine-plugins-from-github-or-source-code-4dhb 
 
